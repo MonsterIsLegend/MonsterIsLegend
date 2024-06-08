@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MonsterIsLegend
+- 👋 Hi, I’m @JanekS
 - 👀 I’m interested in Technologies and History 
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
