@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @JanekS
-- 👀 I’m interested in Technologies and History 
+- 👋 Hi, I’m @Jan
+- 👀 I’m interested in Football, PC Building, Video Games and modding in general as well as history.
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
